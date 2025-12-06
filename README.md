@@ -1,6 +1,6 @@
-🙋🏻‍♀️ Introducing Myself
+🙋🏻‍♀️ **Introducing Myself**
 
-Hello, I'm Muskan — an aspiring Web Developer and Data Analyst.
+Hello, I'm Muskan - an aspiring Web Developer and Data Analyst.
 I enjoy creating user-friendly web pages, analyzing data, and writing efficient SQL queries.
 - Querying data using SQL.
 - Working with HTML & CSS for clean and responsive layouts.
@@ -9,7 +9,7 @@ I enjoy creating user-friendly web pages, analyzing data, and writing efficient 
 
 ---
 
-🛠️ Tools
+🛠️ **Tools**
 
 - Languages: SQL, Python, HTML, CSS.
 - Database: MySQL.
